@@ -1,0 +1,1 @@
+This project contains different implementation of Singleton pattern.
